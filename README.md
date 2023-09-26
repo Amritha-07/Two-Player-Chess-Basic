@@ -20,10 +20,11 @@ This project demonstrates the use of object oriented programming concepts in C++
 
 To run this game, you need to have a C++ compiler installed on your system. You can use any IDE or code editor that supports C++.
 
-- Clone this repository or download the zip file.
-- Open the project folder and locate the `main.cpp` file.
-- Compile and run the `main.cpp` file using your preferred method.
-- Enjoy the game!
+To download the code this project, you can clone this GitHub repository using the following command:
+
+```
+git clone https://github.com/Amritha-07/Two-Player-Chess-Basic.git
+```
 
 ## Screenshots
 
