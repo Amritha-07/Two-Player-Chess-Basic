@@ -14,13 +14,12 @@ This project demonstrates the use of object oriented programming concepts in C++
 - The game displays the chess board and the pieces on the console using ASCII characters.
 - The game validates the moves of each player according to the rules of chess and updates the board accordingly.
 - The game detects check, checkmate, stalemate, and draw situations and announces the result of the game.
-- The game allows the players to save and load the game state using text files.
 
 ## Installation and Usage
 
 To run this game, you need to have a C++ compiler installed on your system. You can use any IDE or code editor that supports C++.
 
-To download the code this project, you can clone this GitHub repository using the following command:
+To download the code files for this project, you can clone this GitHub repository using the following command:
 
 ```
 git clone https://github.com/Amritha-07/Two-Player-Chess-Basic.git
