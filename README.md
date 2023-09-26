@@ -1,4 +1,4 @@
-# Two_Player_Chess_Basic
+# Two-Player-Chess-Basic
 
 This is a console-based game that simulates the basic moves of two player chess. 
 This project demonstrates the use of object oriented programming concepts in C++.
@@ -16,7 +16,7 @@ This project demonstrates the use of object oriented programming concepts in C++
 - The game detects check, checkmate, stalemate, and draw situations and announces the result of the game.
 - The game allows the players to save and load the game state using text files.
 
-## Installation
+## Installation and Usage
 
 To run this game, you need to have a C++ compiler installed on your system. You can use any IDE or code editor that supports C++.
 
