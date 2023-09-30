@@ -14,15 +14,15 @@ This project demonstrates the use of object oriented programming concepts in C++
 ## Demo
 
 <center>
-    <img src="img/snap_1.png" width='90%'>
+    <img src='img/snap_1.png' alt='image' width='90%' name='snap_1'/>
 </center>
 
 <center>
-    <img src="img/snap_2.png" width='90%'>
+    <img src='img/snap_2.png' alt='image' width='90%' name='snap_2'/>
 </center>
 
 <center>
-    <img src="img/snap_3.png" width='90%'>
+    <img src='img/snap_3.png' alt='image' width='90%' name='snap_3'/>
 </center>
 
 ## Tech-Stack
