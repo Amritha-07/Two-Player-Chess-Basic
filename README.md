@@ -3,18 +3,27 @@
 This is a console-based game that simulates the basic moves of two player chess. 
 This project demonstrates the use of object oriented programming concepts in C++.
 
-![image](https://github.com/Amritha-07/Two-Player-Chess-Basic/assets/74042644/dfb5292d-d365-4204-b831-28de4ec7bca1)
-
-![image](https://github.com/Amritha-07/Two-Player-Chess-Basic/assets/74042644/db36ca96-ae40-460d-b4f3-0399567837b3)
-
-![image](https://github.com/Amritha-07/Two-Player-Chess-Basic/assets/74042644/f97e0e01-3d66-469c-b791-6f4d8fe81b24)
-
 ## Table of Content
 
+- [Demo](#demo)
 - [Tech-Stack](#tech-stack)
 - [Features](#features)
 - [Installation and Usage](#installation-and-usage)
 - [References](#references)
+
+## Demo
+
+<center>
+    <img src="./img/snap_1.png" width='90%'>
+</center>
+
+<center>
+    <img src="./img/snap_2.png" width='90%'>
+</center>
+
+<center>
+    <img src="./img/snap_3.png" width='90%'>
+</center>
 
 ## Tech-Stack
 
