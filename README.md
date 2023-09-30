@@ -3,16 +3,6 @@
 This is a console-based game that simulates the basic moves of two player chess. 
 This project demonstrates the use of object oriented programming concepts in C++.
 
-## Table of Content
-
-- [Demo](#demo)
-- [Tech-Stack](#tech-stack)
-- [Features](#features)
-- [Installation and Usage](#installation-and-usage)
-- [References](#references)
-
-## Demo
-
 <center>
     <img src='img/snap_1.png' alt='image' width='90%' name='snap_1'/>
 </center>
