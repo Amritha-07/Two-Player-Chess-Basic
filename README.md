@@ -13,9 +13,11 @@ This project demonstrates the use of object oriented programming concepts in C++
 
 ## Demo
 
-<center>
+<!-- <center>
     <img src='img/snap_1.png' alt='image' width='90%' name='snap_1'/>
-</center>
+</center> -->
+
+![image](/img/snap_1.png)
 
 <center>
     <img src='img/snap_2.png' alt='image' width='90%' name='snap_2'/>
