@@ -3,6 +3,12 @@
 This is a console-based game that simulates the basic moves of two player chess. 
 This project demonstrates the use of object oriented programming concepts in C++.
 
+![image](https://github.com/Amritha-07/Two-Player-Chess-Basic/assets/74042644/dfb5292d-d365-4204-b831-28de4ec7bca1)
+
+![image](https://github.com/Amritha-07/Two-Player-Chess-Basic/assets/74042644/db36ca96-ae40-460d-b4f3-0399567837b3)
+
+![image](https://github.com/Amritha-07/Two-Player-Chess-Basic/assets/74042644/f97e0e01-3d66-469c-b791-6f4d8fe81b24)
+
 ## Tech-Stack
 
 - C++
@@ -25,12 +31,8 @@ To download the code files for this project, you can clone this GitHub repositor
 git clone https://github.com/Amritha-07/Two-Player-Chess-Basic.git
 ```
 
-## Screenshots
+## References
 
-Here are some screenshots of the game:
+This project was inspired by and based on the following sources:
 
-![image](https://github.com/Amritha-07/Two-Player-Chess-Basic/assets/74042644/dfb5292d-d365-4204-b831-28de4ec7bca1)
-
-![image](https://github.com/Amritha-07/Two-Player-Chess-Basic/assets/74042644/db36ca96-ae40-460d-b4f3-0399567837b3)
-
-![image](https://github.com/Amritha-07/Two-Player-Chess-Basic/assets/74042644/f97e0e01-3d66-469c-b791-6f4d8fe81b24)
+- [Chess](https://gist.github.com/geocachecs/d8d2f402b0843231231b) by geocachecs
