@@ -22,7 +22,7 @@ This project demonstrates the use of object oriented programming concepts in C++
 
 ## Features
 
-- The game allows two players to enter their names and choose their colors (white or black) before starting the game.
+- The game allows two players to enter their names before starting the game.
 - The game displays the chess board and the pieces on the console using ASCII characters.
 - The game validates the moves of each player according to the rules of chess and updates the board accordingly.
 - The game detects check, checkmate, stalemate, and draw situations and announces the result of the game.
